@@ -72,8 +72,8 @@ h3 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: azure;
     font-size: 60px;
-    margin-left: 20%;
-    padding-top: 100px;
+    margin-left: 5%;
+    padding-top: 50px;
    
 }
 
@@ -81,7 +81,16 @@ h3 {
     display: flex;
     width: 25%;
     margin-left: 60%;
-    margin-top: -10%;
+    margin-top: -7%;
+    
+}
+
+h4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: azure;
+    font-size: 60px;
+    margin-left: 5%;
+    padding-top: 150px;
     
 }
 
@@ -135,7 +144,7 @@ pre {
 
 .section-three {
     background-color: lightcoral;
-    height: 800px;
+    height: 700px;
 
 }
 

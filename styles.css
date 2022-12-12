@@ -137,6 +137,9 @@ pre {
     margin-top: -11%;
 }
 
+.last img {
+    margin-left: 80%;
+}
 .flexgrow-container {
     display: flex;
 }

@@ -140,6 +140,11 @@ pre {
 .last img {
     margin-left: 80%;
 }
+
+#one {
+    padding-left: 50%;
+}
+
 .flexgrow-container {
     display: flex;
 }

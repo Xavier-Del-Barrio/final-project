@@ -85,6 +85,14 @@ h3 {
     
 }
 
+pre {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: larger;
+    line-height: 30px;
+    margin-top: -30%;
+    margin-left: 20%;
+}
 
 .flexgrow-container {
     display: flex;

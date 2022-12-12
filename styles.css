@@ -22,15 +22,22 @@ ul {
     padding: 5px;
 }
 
-li {
+button {
+    
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     padding: 10px;
     margin: 30px 3px;
     border: 3px solid black;
     border-radius: 10px;
-    background-color: darkgrey;
+    background-color: transparent;
+    transition-duration: .4s;
 
+}
+
+button:hover {
+    border-color: white;
+    transform: scale(1.2);
 }
 
 .container-navigation {
@@ -207,7 +214,7 @@ iframe {
 /* section 5 media items */
 
 .section-five {
-    margin-top: 30%;
+    margin-top: 16%;
     background-color: goldenrod;
     height: 700px;
 

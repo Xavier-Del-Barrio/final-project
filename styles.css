@@ -40,6 +40,7 @@ button:hover {
     transform: scale(1.2);
 }
 
+
 .container-navigation {
     display: flex;
     flex-wrap: wrap;
@@ -111,6 +112,8 @@ h5 {
 }
 
 pre {
+    
+    display: flex;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
     font-size: larger;
@@ -145,6 +148,7 @@ pre {
 }
 
 .last img {
+    display: flex;
     margin-left: 80%;
 }
 
@@ -203,17 +207,10 @@ iframe {
 }
 
 
-/* section 4 embed audio */
-
-.section-four {
-    background-color: darkslateblue;
-    height: 700px;
-
-}
 
 /* section 5 media items */
 
-.section-five {
+.section-four {
     margin-top: 16%;
     background-color: goldenrod;
     height: 700px;

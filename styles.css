@@ -238,6 +238,15 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     margin-bottom: 30%;
     width: 18%;
 }
+
+.transitional img {
+    display: flex;
+    width: 15%;
+    margin-left: 3.5%;
+    margin-top: -25%;
+    margin-bottom: 30%;
+    width: 18%;
+}
 .flexgrow-container {
     display: flex;
 }

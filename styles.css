@@ -203,6 +203,14 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     padding-top: 60px;
 }
 
+.axial img {
+    display: flex;
+    width: 15%;
+    margin-left: 10%;
+    margin-top: -5%;
+    margin-bottom: 10%;
+    width: 18%;
+}
 .flexgrow-container {
     display: flex;
 }

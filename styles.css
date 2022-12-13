@@ -206,7 +206,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 .axial img {
     display: flex;
     width: 15%;
-    margin-left: 10%;
+    margin-left: 5%;
     margin-top: -5%;
     margin-bottom: 10%;
     width: 18%;
@@ -215,8 +215,17 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 .random img {
     display: flex;
     width: 15%;
-    margin-left: 35%;
+    margin-left: 30%;
     margin-top: -27.9%;
+    margin-bottom: 30%;
+    width: 18%;
+}
+
+.radial img {
+    display: flex;
+    width: 15%;
+    margin-left: 55%;
+    margin-top: -47.9%;
     margin-bottom: 30%;
     width: 18%;
 }

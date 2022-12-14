@@ -260,7 +260,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     position: absolute;
     display: flex;
     width: 15%;
-    margin-top: -312%;
+    margin-top: -341.8%;
     margin-left: 164%;
     width: 105%;
 }
@@ -276,8 +276,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
                     .img__description_layer2 {
                         position: absolute;
-                        top: -802px;
-                        bottom: 800px;
+                        top: -878px;
+                        bottom: 878px;
                         left: 0;
                         right: 0;
                         margin-left: 164%;
@@ -314,7 +314,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     display: flex;
     width: 15%;
     margin-left: 310%;
-    margin-top: -299%;
+    margin-top: -329%;
     width: 105%;
 }
 
@@ -329,8 +329,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
                     .img__description_layer3 {
                         position: absolute;
-                        top: -768px;
-                        bottom: 768px;
+                        top: -846px;
+                        bottom: 846px;
                         left: 0;
                         right: 0;
                         margin-left: 310%;
@@ -368,7 +368,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     display: flex;
     width: 15%;
     margin-left: 456.5%;
-    margin-top: -287%;
+    margin-top: -316%;
     margin-bottom: 30%;
     width: 105%;
 }
@@ -384,8 +384,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
                     .img__description_layer4 {
                         position: absolute;
-                        top: -738px;
-                        bottom: 737px;
+                        top: -813px;
+                        bottom: 812px;
                         left: 0;
                         right: 0;
                         margin-left: 456.5%;
@@ -422,7 +422,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     display: flex;
     width: 15%;
     margin-left: 20.7%;
-    margin-top: -150%;
+    margin-top: -180%;
     margin-bottom: 30%;
     width: 105%;
 }
@@ -438,8 +438,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
                     .img__description_layer5 {
                         position: absolute;
-                        top: -385px;
-                        bottom: 387px;
+                        top: -463px;
+                        bottom: 463px;
                         left: 0;
                         right: 0;
                         margin-left: 20.7%;
@@ -476,7 +476,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     display: flex;
     width: 15%;
     margin-left: 164%;
-    margin-top: -138%;
+    margin-top: -168%;
     margin-bottom: 30%;
     width: 105%;
 }
@@ -492,8 +492,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
                     .img__description_layer6 {
                         position: absolute;
-                        top: -356px;
-                        bottom: 354px;
+                        top: -432px;
+                        bottom: 431px;
                         left: 0;
                         right: 0;
                         margin-left: 164%;
@@ -530,7 +530,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     display: flex;
     width: 15%;
     margin-left: 310%;
-    margin-top: -126%;
+    margin-top: -156%;
     margin-bottom: 30%;
     width: 105%;
 }
@@ -546,8 +546,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
                     .img__description_layer7 {
                         position: absolute;
-                        top: -324px;
-                        bottom: 323px;
+                        top: -401px;
+                        bottom: 401px;
                         left: 0;
                         right: 0;
                         margin-left: 310%;
@@ -585,7 +585,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     display: flex;
     width: 15%;
     margin-left: 456.5%;
-    margin-top: -114%;
+    margin-top: -144%;
     margin-bottom: 30%;
     width: 105%;
 }
@@ -601,8 +601,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
                     .img__description_layer8 {
                         position: absolute;
-                        top: -294px;
-                        bottom: 293px;
+                        top: -370px;
+                        bottom: 370px;
                         left: 0;
                         right: 0;
                         margin-left: 456.5%;
@@ -684,6 +684,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     background-color: darkgray;
     height: 700px;
     margin-top: -25%;
+    
 }
 
 iframe {
@@ -698,6 +699,6 @@ iframe {
 .section-four {
     margin-top: 16%;
     background-color: goldenrod;
-    height: 1300px;
+    height: 1375px;
 
 }

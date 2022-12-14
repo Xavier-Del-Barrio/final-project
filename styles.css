@@ -526,13 +526,59 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
                     }
 
 .grid img {
+    position: absolute;
     display: flex;
     width: 15%;
-    margin-left: 53%;
-    margin-top: -47.9%;
+    margin-left: 310%;
+    margin-top: -126%;
     margin-bottom: 30%;
-    width: 18%;
+    width: 105%;
 }
+
+                    .img__wrap7 {
+                        position: relative;
+                        margin-left: 30;
+                        margin-top: -20%;
+                        height: 270px;
+                        width: 257px;
+
+                    }
+
+                    .img__description_layer7 {
+                        position: absolute;
+                        top: -324px;
+                        bottom: 323px;
+                        left: 0;
+                        right: 0;
+                        margin-left: 310%;
+                        
+                        background: rgba(48, 49, 53, 0.6);
+                        color: #fff;
+                        visibility: hidden;
+                        opacity: 0;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        width: 105%;
+
+                        /* transition effect. not necessary */
+                        transition: opacity .8s, visibility .8s;    
+                    }
+
+                    .img__wrap7:hover .img__description_layer7 {
+                        visibility: visible;
+                        opacity: 1;
+                    }
+
+                    .img__description7 {
+                        transition: .2s;
+                        transform: translateY(1em);
+                    }
+
+                    .img__wrap7:hover .img__description7 {
+                        transform: translateY(0);
+                    }
+
 
 .dilational img {
     display: flex;

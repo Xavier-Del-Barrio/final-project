@@ -260,7 +260,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     position: absolute;
     display: flex;
     width: 15%;
-    margin-top: -157%;
+    margin-top: -312%;
     margin-left: 164%;
     width: 105%;
 }
@@ -276,8 +276,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
                     .img__description_layer2 {
                         position: absolute;
-                        top: -404px;
-                        bottom: 403px;
+                        top: -802px;
+                        bottom: 800px;
                         left: 0;
                         right: 0;
                         margin-left: 164%;
@@ -314,7 +314,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     display: flex;
     width: 15%;
     margin-left: 310%;
-    margin-top: -145%;
+    margin-top: -299%;
     width: 105%;
 }
 
@@ -329,8 +329,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
                     .img__description_layer3 {
                         position: absolute;
-                        top: -373px;
-                        bottom: 373px;
+                        top: -768px;
+                        bottom: 768px;
                         left: 0;
                         right: 0;
                         margin-left: 310%;
@@ -368,7 +368,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     display: flex;
     width: 15%;
     margin-left: 456.5%;
-    margin-top: -132%;
+    margin-top: -287%;
     margin-bottom: 30%;
     width: 105%;
 }
@@ -384,8 +384,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
                     .img__description_layer4 {
                         position: absolute;
-                        top: -340px;
-                        bottom: 339px;
+                        top: -738px;
+                        bottom: 737px;
                         left: 0;
                         right: 0;
                         margin-left: 456.5%;
@@ -413,18 +413,63 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
                         transform: translateY(1em);
                     }
 
-                    .img__wrap4:hover .img__description3 {
+                    .img__wrap4:hover .img__description4 {
                         transform: translateY(0);
                     }
 
 .transitional img {
+    position: absolute;
     display: flex;
     width: 15%;
-    margin-left: 3.5%;
-    margin-top: -25%;
+    margin-left: 20.7%;
+    margin-top: -150%;
     margin-bottom: 30%;
-    width: 18%;
+    width: 105%;
 }
+
+                    .img__wrap5 {
+                        position: relative;
+                        margin-left: 30;
+                        margin-top: -20%;
+                        height: 270px;
+                        width: 257px;
+
+                    }
+
+                    .img__description_layer5 {
+                        position: absolute;
+                        top: -385px;
+                        bottom: 387px;
+                        left: 0;
+                        right: 0;
+                        margin-left: 20.7%;
+                        
+                        background: rgba(48, 49, 53, 0.6);
+                        color: #fff;
+                        visibility: hidden;
+                        opacity: 0;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        width: 105%;
+
+                        /* transition effect. not necessary */
+                        transition: opacity .8s, visibility .8s;    
+                    }
+
+                    .img__wrap5:hover .img__description_layer5 {
+                        visibility: visible;
+                        opacity: 1;
+                    }
+
+                    .img__description5 {
+                        transition: .2s;
+                        transform: translateY(1em);
+                    }
+
+                    .img__wrap5:hover .img__description5 {
+                        transform: translateY(0);
+                    }
 
 .bilateral img {
     display: flex;
@@ -515,6 +560,6 @@ iframe {
 .section-four {
     margin-top: 16%;
     background-color: goldenrod;
-    height: 900px;
+    height: 1300px;
 
 }

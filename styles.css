@@ -310,11 +310,11 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
                     }
 
 .radial img {
+    position:absolute;
     display: flex;
     width: 15%;
     margin-left: 310%;
-    margin-top: -47.9%;
-    margin-bottom: 30%;
+    margin-top: -145%;
     width: 105%;
 }
 
@@ -329,11 +329,11 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
                     .img__description_layer3 {
                         position: absolute;
-                        top: -404px;
-                        bottom: 403px;
+                        top: -373px;
+                        bottom: 373px;
                         left: 0;
                         right: 0;
-                        margin-left: 164%;
+                        margin-left: 310%;
                         
                         background: rgba(48, 49, 53, 0.6);
                         color: #fff;

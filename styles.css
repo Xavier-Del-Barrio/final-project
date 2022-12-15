@@ -473,6 +473,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
                     .img__description5 {
                         transition: .2s;
                         transform: translateY(1em);
+                        margin-left: -60%;
+                        margin-top: 20%;
                     }
 
                     .img__wrap5:hover .img__description5 {
@@ -527,6 +529,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
                     .img__description6 {
                         transition: .2s;
                         transform: translateY(1em);
+                        margin-left: -60%;
+                        margin-top: -10%;
                     }
 
                     .img__wrap6:hover .img__description6 {
@@ -581,6 +585,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
                     .img__description7 {
                         transition: .2s;
                         transform: translateY(1em);
+                        margin-left: -60%;
+                        margin-top: 10%;
                     }
 
                     .img__wrap7:hover .img__description7 {
@@ -636,6 +642,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
                     .img__description8 {
                         transition: .2s;
                         transform: translateY(1em);
+                        margin-left: -60%;
+                        margin-top: 20%;
                     }
 
                     .img__wrap8:hover .img__description8 {

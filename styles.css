@@ -229,7 +229,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
                         left: 0;
                         right: 0;
                         margin-left: 53px;
-                        background: rgba(48, 49, 53, 0.6);
+                        background: rgba(0, 0, 0, 0.6);
                         color: #fff;
                         visibility: hidden;
                         opacity: 0;
@@ -250,6 +250,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
                     .img__description {
                         transition: .2s;
                         transform: translateY(1em);
+                        margin-left: -54%;
+                        margin-top: 10%;
                     }
                     
                     .img__wrap:hover .img__description {
@@ -303,6 +305,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
                     .img__description2 {
                         transition: .2s;
                         transform: translateY(1em);
+                        margin-left: -60%;
+                        margin-top: 10%;
                     }
 
                     .img__wrap2:hover .img__description2 {
@@ -356,6 +360,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
                     .img__description3 {
                         transition: .2s;
                         transform: translateY(1em);
+                        margin-left: -60%;
+                        margin-top: 10%;
                     }
 
                     .img__wrap3:hover .img__description3 {
@@ -411,6 +417,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
                     .img__description4 {
                         transition: .2s;
                         transform: translateY(1em);
+                        margin-left: -60%;
+                        margin-top: 15%;
                     }
 
                     .img__wrap4:hover .img__description4 {
@@ -684,6 +692,7 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     background-color: darkgray;
     height: 700px;
     margin-top: -25%;
+
     
 }
 

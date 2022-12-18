@@ -726,3 +726,11 @@ iframe {
 
 }
 
+footer {
+    height: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+    color: black;
+    padding: 10px 0px;
+}

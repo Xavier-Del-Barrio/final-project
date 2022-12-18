@@ -698,10 +698,16 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 
 .section-five {
     background-color: darkgray;
-    height: 700px;
+    height: 1200px;
     margin-top: -25%;
 
     
+}
+
+.reflection-text {
+    margin-left: -10%;
+    margin-top: 40%;
+    text-align: center;
 }
 
 iframe {
@@ -719,3 +725,4 @@ iframe {
     height: 1375px;
 
 }
+
